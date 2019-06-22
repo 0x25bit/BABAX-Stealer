@@ -16,11 +16,11 @@ NOTE: by default it's currecntly bypassing all the detections while on obfuscati
 Screenshots:
 
 First 3 days of tests arround the internet by sharing some random stuffs and already 69 infected targets as you can see.
-![p](https://cache.cracked.to/9508df1faec4805c2938593bf056664ccc82f0d2/68747470733a2f2f692e696d6775722e636f6d2f677233546a67732e706e67)
+![p](https://i.imgur.com/VE87PXv.png)
 
 Logs will get delivered in an encrypted archive to the telegram bot used and as I said before you will get the whole project so you can change the whole system if you want.
 Note: cvshost.exe is a utility that decrypt firefox data from the dbs files (logins.json and key3.db). You will get it with the project too.
-![p2](https://cache.cracked.to/757e523d3992dcdd3488c239d6859c9b8f9f19aa/68747470733a2f2f692e696d6775722e636f6d2f6c6371775844362e706e67)
+![p2](https://i.imgur.com/YgWHhiV.png)
 
 
 USE IT AT YOU OWN RISKS. I'M NOT PUSHING YOU TO INFECT PEOPLES OR DO ANYTHING ILLEGAL WITH THIS PROJECT.
