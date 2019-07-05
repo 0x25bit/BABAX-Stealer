@@ -15,7 +15,7 @@ First 3 days of tests arround the internet by sharing some random stuffs and alr
 ![p](https://i.imgur.com/VE87PXv.png)
 
 Logs will get delivered in an encrypted archive to the telegram bot used and as I said before you will get the whole project so you can change the whole system if you want.
-Note: cvshost.exe is a utility that decrypt firefox data from the dbs files (logins.json and key3.db). You will get it with the project too.
+Note: cvshost.exe is a utility that decrypt firefox data from the dbs files (logins.json and key3.db). You will not get it with the project but you still can use the json and key file in your firefox clients to get the credantials or look for tools that does that.
 ![p2](https://i.imgur.com/YgWHhiV.png)
 
 
